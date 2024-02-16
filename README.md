@@ -23,7 +23,21 @@
 - Students
 
 # Tools used
+- Excel for Domain knowledge and identifying which columns I would use.
 - SQL Big Query for data manipulation and transformation
 - Tableau for analysis and vizuals
 
-You can check out the dash board at [School Closures During Covid-19](https://public.tableau.com/views/SchoolClosuresDuringCOVID-19/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+# Data Source and Collection
+## The data was sourced from kaggle and from world bank. It was multiple excel files which I used SQL to join tables to create and combine into one table. Then proceeded to export it as a csv.
+
+# Exploratory Data Analysis
+## I used SQL to do my data exploration. I found the following facts:
+- India and China Countries with the average students.
+- The most used form of education was TV, Radio and online learning.
+- By Year 2022 Average School population was 90,570,893,178.
+
+# Visualizations
+## I used Tableau for visualizations. You can check out the dash board at [School Closures During Covid-19](https://public.tableau.com/views/SchoolClosuresDuringCOVID-19/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+# Presentation
+## You can check out the presentation that is saved as a PDF in this repository.
